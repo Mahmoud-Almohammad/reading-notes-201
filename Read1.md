@@ -72,11 +72,11 @@
 
 ### The anatomy of HTML is
 
-### * The opennimg tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets
+### - The opennimg tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets
 
-### * The contant: This is the contant of the element
+### - The contant: This is the contant of the element
 
-### * The closing tag: This is the as the openning tag, except that it includes a forward slash before the element name
+### - The closing tag: This is the as the openning tag, except that it includes a forward slash before the element name
 
 ## And there are another things that used to add more information or functionality to tag called attributes
 
@@ -96,13 +96,13 @@
 
 # And now we are going to introduce the most common elements in almost every web structure, and these elements are
 
-### * \<html\>\</html\>: This element wraps all the content on the page. It is sometimes known as the root element
+### - \<html\>\</html\>: This element wraps all the content on the page. It is sometimes known as the root element
 
-### * \<head\>\</head\>: This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series
+### - \<head\>\</head\>: This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series
 
-### * \<title\>\</title\>: This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked
+### - \<title\>\</title\>: This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked
 
-### * \<body\>\</body\>: This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else
+### - \<body\>\</body\>: This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else
 
 ## To more information, click [here][5]
 
@@ -110,9 +110,9 @@
 
 # How does metadata influence Search Engine Optimization?
 
-## Meatadata is a group of tags that don't appear in the webpage(like the web site name in the top of the browser), but how does metadata influence Search Engine Optimization?
+### Meatadata is a group of tags that don't appear in the webpage(like the web site name in the top of the browser), but how does metadata influence Search Engine Optimization?
 
-## when we use metadata tag like \<meta\> tag and use a \<name\> and \<content\> attributes to sfecify the type of meta data and the content of the meta data and adding a keywords to the describtion will make your page appear higher in relevant searches performed in search engines.
+### when we use metadata tag like \<meta\> tag and use a \<name\> and \<content\> attributes to sfecify the type of meta data and the content of the meta data and adding a keywords to the describtion will make your page appear higher in relevant searches performed in search engines.
 
 ## for more information about **meta data**, you can read this [page][7].
 
