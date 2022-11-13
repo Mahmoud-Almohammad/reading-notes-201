@@ -32,84 +32,89 @@
 
 ## The whole process is explained [here][2] please click to know more information about this process
 
-*** 
+***
 
 # What will your website look like?
 
-### Before coding your website, you have to plan what you are going to code and determine the design that your website will look like it, like the font type and color and the background color and so on.
+### Before coding your website, you have to plan what you are going to code and determine the design that your website will look like it, like the font type and color and the background color and so on
 
-### So the first step you should do before coding is to plan what you want to do, and what information you want to present, and the second step is **sketching out your design** with just a pen and paper you will drow a simple sketch that present the way that your website will look like.
+### So the first step you should do before coding is to plan what you want to do, and what information you want to present, and the second step is **sketching out your design** with just a pen and paper you will drow a simple sketch that present the way that your website will look like
 
-## Above is just an introduction about designning your website, for more information you can read this [article][3].
+## Above is just an introduction about designning your website, for more information you can read this [article][3]
 
 ***
 
 # JavaScript basics
 
-### JavaScript is a programming language that can add interactivity into a website.
+### JavaScript is a programming language that can add interactivity into a website
 
-### There are different data types in js, and we going to itroduce to of them:
+### There are different data types in js, and we going to itroduce to of them
 
- ### 1- strings: string is a group of charactors that can hold inside it any thing like letters, numbers...etc, and we usually use single quates to introduce things as a strings.
+### 1- strings: string is a group of charactors that can hold inside it any thing like letters, numbers...etc, and we usually use single quates to introduce things as a strings
 
- ### 2- numbers: Numbers don't have quotes around them.
+### 2- numbers: Numbers don't have quotes around them
 
- ## And there is another thing that we are going to introduced to called **variable**
+## And there is another thing that we are going to introduced to called **variable**
 
- ### Variables are a containers that stors values, and this value can be any thing like a number or string or object...etc.
+### Variables are a containers that stors values, and this value can be any thing like a number or string or object...etc
 
- ### WE use the commands **let**, **const** and **var** to declare a variable, and after that we assign a value to that variable using the equal sign (=).
+### WE use the commands **let**, **const** and **var** to declare a variable, and after that we assign a value to that variable using the equal sign (=)
 
- ### The variables are very important in javascript because it give us the dunamic things thats make the website look more intersting and more profissional.
+### The variables are very important in javascript because it give us the dunamic things thats make the website look more intersting and more profissional
 
- ## To know more about **JavaScript basics** click [here][4] 
-
- ***
-
- # Introduction to HTML
-
- ### After we explained HTML before, today we are going to explain about **HTML Element**.
-
- ### The anatomy of HTML is:
-
- ### * The opennimg tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets.
-
- ### * The contant: This is the contant of the element.
-
- ### * The closing tag: This is the as the openning tag, except that it includes a forward slash before the element name.
-
- ## And there are another things that used to add more information or functionality to tag called attributes.
-
- ### The attribute comes after the element name and as we said before, it gives more information and functionality to tag to make it do more stuff.
-
- ## Above is just a brief about HTML elements and attributes, to further read, click [here][5] 
+## To know more about **JavaScript basics** click [here][4]
 
  ***
 
- # In this point we are going to clarify the diffirence between the \<article\> tag and the \<section\> tag.
+# Introduction to HTML
 
- ### Article and section tags both are used to enclose contant that talk about same topic, but section tag is more specific, while article tag enclose the contant thet talk about relative topics without the rest of the webpage, the section tag encloses a single part of the page that doing one specific functionality.
+### After we explained HTML before, today we are going to explain about **HTML Element**
+
+### The anatomy of HTML is
+
+### * The opennimg tag: This consists of the name of the element (in this example, p for paragraph), wrapped in opening and closing angle brackets
+
+### * The contant: This is the contant of the element
+
+### * The closing tag: This is the as the openning tag, except that it includes a forward slash before the element name
+
+## And there are another things that used to add more information or functionality to tag called attributes
+
+### The attribute comes after the element name and as we said before, it gives more information and functionality to tag to make it do more stuff
+
+## Above is just a brief about HTML elements and attributes, to further read, click [here][5]
+
+ ***
+
+# In this point we are going to clarify the diffirence between the \<article\> tag and the \<section\> tag
+
+### Article and section tags both are used to enclose contant that talk about same topic, but section tag is more specific, while article tag enclose the contant thet talk about relative topics without the rest of the webpage, the section tag encloses a single part of the page that doing one specific functionality
 
 ## For further read, click [here][6]
 
  ***
 
- # And now we are going to introduce the most common elements in almost every web structure, and these elements are:
+# And now we are going to introduce the most common elements in almost every web structure, and these elements are
 
- ### * \<html\>\</html\>: This element wraps all the content on the page. It is sometimes known as the root element.
+### * \<html\>\</html\>: This element wraps all the content on the page. It is sometimes known as the root element
 
- ### * \<head\>\</head\>: This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series.
+### * \<head\>\</head\>: This element acts as a container for everything you want to include on the HTML page, that isn't the content the page will show to viewers. This includes keywords and a page description that would appear in search results, CSS to style content, character set declarations, and more. You will learn more about this in the next article of the series
 
- ### * \<title\>\</title\>: This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked. 
+### * \<title\>\</title\>: This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked
 
- ### * \<body\>\</body\>: This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else. 
+### * \<body\>\</body\>: This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else
 
- ## To more information, click [here][5]
+## To more information, click [here][5]
 
  ***
 
- #
+# How does metadata influence Search Engine Optimization?
 
+## Meatadata is a group of tags that don't appear in the webpage(like the web site name in the top of the browser), but how does metadata influence Search Engine Optimization?
+
+## when we use metadata tag like \<meta\> tag and use a \<name\> and \<content\> attributes to sfecify the type of meta data and the content of the meta data and adding a keywords to the describtion will make your page appear higher in relevant searches performed in search engines.
+
+## for more information about **meta data**, you can read this [page][7].
 
 [1]: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web>
 [2]: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
@@ -117,3 +122,4 @@
 [4]: <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>
 [5]: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started>
 [6]: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure>
+[7]: <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML>
