@@ -11,7 +11,7 @@
 | Read 5                            | [Read5](./Read5.md)              |
 | Read 6                            | [Read6](./Read6.md)              |
 | Read 7                            | [Read7](./Read7.md)              |
-
+| Read 8                            | [Read8](./Read8.md)              |
 
 
 
