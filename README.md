@@ -13,8 +13,8 @@
 | Read 7                            | [Object-Oriented Programming, HTML Tables](./Read7.md)              |
 | Read 8                            | [CSS Layout](./Read8.md)              |
 | Read 9                            | [Forms and JS Events](./Read9.md)              |
-| Read 10                           | [Debugging](./Read10.md)            |
+| Read 10                           | [Read10](./Read10.md)            |
 | Read 11                           | [Audio, Video, Images](./Read11.md)            |
 | Read 12                           | [Chart.js, Canvas](./Read12.md)            |
-
+| Read 13                           | [Read13](./Read13.md)              |
 
